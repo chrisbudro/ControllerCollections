@@ -1,0 +1,1 @@
+Experimenting with creating a reusable controller collection view to simplify collections within collections.  
